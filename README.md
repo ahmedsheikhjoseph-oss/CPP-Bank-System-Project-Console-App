@@ -21,9 +21,9 @@ This project is a console-based **Bank Management System** developed as the firs
 3. Use the Main Menu to navigate through system functions.
 
 ---
-*Developed as part of the Programming Advices curriculum.*
+*Lovingly Developed By : Eng.Ahmed Sheikh Aldeen Yusef*
 
-AR:
+
 
 # نظام إدارة البنك (المستوى الأول) 🏦
 
@@ -48,4 +48,4 @@ AR:
 3. استخدم القائمة الرئيسية للتنقل بين وظائف النظام المختلفة.
 
 ---
-*تم تطوير هذا المشروع كجزء من منهاج Programming Advices.*
+*طور بكل حب بواسطة : أحمد شيخ الدين يوسف.*
