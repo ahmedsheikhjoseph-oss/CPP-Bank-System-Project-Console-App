@@ -5,7 +5,7 @@
 Project: Bank Management System (V1)
 Course: Algorithms & Problem Solving Level 3
 Concept: Advanced File Handling, Data Persistence, and CRUD Operations.
-Author: [ِAhmed Sheikh Al-deen]
+Developed By: [ِAhmed Sheikh Al-deen]
 */
 
 #include <iostream>
