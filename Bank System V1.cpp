@@ -161,6 +161,7 @@ vector <sClient> LoadCleintsDataFromFile(string FileName)
     return vClients;
 }
 
+// UI: Prints a single client record in a table row format
 void PrintClientRecordLine(sClient Client)
 {
     cout << "| " << setw(15) << left << Client.AccountNumber;
@@ -170,6 +171,7 @@ void PrintClientRecordLine(sClient Client)
     cout << "| " << setw(12) << left << Client.AccountBalance;
 }
 
+// UI/UX: Displays all clients in a well-formatted table using iomanip
 void ShowAllClientsScreen()
 {
     vector <sClient> vClients = LoadCleintsDataFromFile(ClientsFileName);
